@@ -8,5 +8,7 @@ with open('input.txt', 'r') as inp:
     with open('output.txt', 'r') as out:
         output_text = out.read()
 print(output_text)
-# ____________control_line_______
+# ____________control_line_3______
+
+
 
